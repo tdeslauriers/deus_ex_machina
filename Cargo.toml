@@ -1,0 +1,12 @@
+[package]
+name = "deus_ex_machina"
+authors = ["Tom Des Lauriers"]
+version = "0.1.0"
+edition = "2021"
+description = "A cli program that does whatever I need it to."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+noncryptor = "^0.1.2"
